@@ -115,18 +115,15 @@ html{
   display: flex;
   justify-content: center;
   background-color: var(--fondo1);
-  padding: 100px;
-  margin-bottom: 100px;
 }
 #servicios .row{
-  padding: 100px 0;
+  padding: 30px 0;
 }
 .services{
-  padding: 50px 0;
+  padding: 30px 0;
   text-align: center;
+  margin-bottom: 10px;
   border-radius: 20px;
-  width: 300px;
-  margin: 0 40px;
   box-shadow: 3px 4px 3px 4px rgba(0, 0, 0, 0.4);
 }
 .services h2 {
@@ -162,11 +159,10 @@ html{
   color: var(--secon);
 }
 .proyect{
-  padding: 50px 0;
+  padding: 30px 0;
   text-align: center;
+  margin-bottom: 10px;
   border-radius: 20px;
-  width: 300px;
-  margin: 0 40px;
   box-shadow: 3px 4px 3px 4px rgba(0, 0, 0, 0.4);
 }
 .proyect h2 {
@@ -212,14 +208,13 @@ html{
   background-color: var(--fondo1);
   display: flex;
   justify-content: center;
-  padding: 100px;
-  margin-bottom: 100px;
+  padding: 30px;
 }
 #proyectos {
   background-color: var(--primary);
   display: flex;
   justify-content: center;
-  padding: 100px;
+  padding: 30px;
 }
 footer{
   background-color: var(--primary);
